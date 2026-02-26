@@ -1,3 +1,1 @@
-## This is Mugisha Prosper
-
-- Just Deep Neural Nets
+Just Deep Neural Nets
